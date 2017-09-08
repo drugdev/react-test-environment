@@ -1,10 +1,8 @@
 /**
-* xx
-*
 * @method flatMap
-* @param {String} foo Argument 1
-* @param {Object} config A config object
-* @return {Boolean} Returns true on success
+* @param {String} text
+* @param {Object} properties from an Element
+* @return {String} Returns a text with the concatenated text from the component and its children
 */
 export function flatMap(text, prop) {
   (prop.children || []).forEach(child => {

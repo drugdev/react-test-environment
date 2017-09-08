@@ -22,7 +22,7 @@ npm install
 
 ## Documentation
 
-Find all the documentation here. You can browse through our differente examples.
+Find all the documentation [here](./docs/index.md). You can browse through our differente examples.
 
 ## Contributing
 
